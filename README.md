@@ -32,7 +32,3 @@ This course is designed for students who are interested in developing games prof
 * [Mastering Unity 2017 Game Development with C# - Second Edition [Video]](https://www.packtpub.com/web-development/mastering-unity-2017-game-development-c-second-edition)
 
 * [Beginner and Advanced Lighting in Unity [Video]](https://www.packtpub.com/game-development/beginner-and-advanced-lighting-unity-video)
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781838559939">https://packt.link/free-ebook/9781838559939 </a> </p>
